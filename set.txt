@@ -1,1 +1,1 @@
-IMINSK111;54.00,27.67;29726
+IMINSK111;54.00,27.67;https://api.accuweather.com/forecasts/v1/daily/1day/29726.json?apikey=466a4a95e2a9483e8f3fc22d9bb2395f&language=ru&metric=true&details=false
